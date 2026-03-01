@@ -1,3 +1,7 @@
+![动画](images/动画.gif)
+
+![dataflow1.png](images/dataflow1.png)
+
 \# my\_agent - AI Agent 项目
 
 
