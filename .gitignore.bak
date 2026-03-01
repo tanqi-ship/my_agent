@@ -1,0 +1,15 @@
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 敏感信息（如果有 .env 文件存放 API Key，务必忽略！）
+.env
+.DS_Store
